@@ -7,5 +7,7 @@
   },
   "rulesDirectory": [
     "node_modules/tslint-eslint-rules/dist/rules"
-  ]
+  ],
+  "types": [ "node" ],
+    "typeRoots": [ "../node_modules/@types" ],
 }
